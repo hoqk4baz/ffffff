@@ -1,15 +1,2 @@
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
-Lisans İptal Edildi : 404 HATA
+Internal Server Error	: 500
+Hizmet Yok : 503
