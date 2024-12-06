@@ -1,2 +1,5 @@
 Internal Server Error	: 500
 Hizmet Yok : 503
+HTTP Version not supported	: 505
+Not Found	: 404
+Non-Authoritative Information	 : 203
